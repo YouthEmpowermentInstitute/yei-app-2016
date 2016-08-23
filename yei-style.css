@@ -1,0 +1,48 @@
+#credlogo {
+	width:250px;
+    display: block;
+    margin: 0 auto;
+}
+
+#nav {
+	text-align:center;
+}
+
+#logo {
+    display: block;
+    margin: 0 auto;
+	width: 75%;
+	padding: 20px;
+}
+
+#icon{
+width: 30px;
+height: 30px;
+padding-top: 10px;
+
+}
+
+#icon2 {
+height: 30px;
+padding-top: 10px;
+}
+
+#biopic {
+
+    display: block;
+    margin: 0 auto;
+	height: 250px;
+
+}
+
+#l-frontcredits {
+	color:gray; 
+	font-size:11px;
+	text-align:left;
+}
+
+#r-frontcredits {
+	color:gray; 
+	font-size:11px;
+	text-align:right;
+}
