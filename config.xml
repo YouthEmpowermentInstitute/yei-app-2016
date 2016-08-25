@@ -4,7 +4,7 @@
 		xmlns:android = "http://schemas.android.com/apk/res/android"
 		id        = "com.yei2016.everett"
 		versionCode="10"
-		version   = "2.0.0">
+		version   = "2.0.3">
 		<name>YEI College Mentor</name>
 		<description>Created by students for students</description>
 		<author href="everettprogram.org/yei" email="info@everettprogram.org">Everett Program</author>
