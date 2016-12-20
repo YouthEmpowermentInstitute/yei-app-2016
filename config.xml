@@ -2,13 +2,14 @@
 	<widget xmlns = "http://www.w3.org/ns/widgets"
 		xmlns:gap = "http://phonegap.com/ns/1.0"
 		xmlns:android = "http://schemas.android.com/apk/res/android"
-		id        = "com.yei2016.everett"
+		
+		id = com.D36Z79H8F6.everett
 		versionCode="10"
 		version   = "2.0.6">
 		<name>College Mentor</name>
 		<description>Created by students for students</description>
 		<author href="everettprogram.org/yei" email="info@everettprogram.org">Everett Program</author>
-	
+	<!--id        = "com.yei2016.everett"-->
 	 <!--
         If you do not want any permissions to be added to your app, add the
         following tag to your config.xml; you will still have the INTERNET
